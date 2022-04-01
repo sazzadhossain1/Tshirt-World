@@ -1,0 +1,14 @@
+.t-shirt{
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    width: 300px;
+}
+.t-shirt img{
+    height: 250px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
